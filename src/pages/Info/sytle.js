@@ -6,21 +6,17 @@ export const styles = StyleSheet.create({
       backgroundColor: '#fff',
       alignItems: 'center',
       justifyContent: 'center',
-      padding:0,
-      margin:0
+      paddingTop: 100
     },
     fundo: {
 
         width:"100%",
-        height:"90%",
+        height:"100%",
         bottom: 0,
         backgroundColor:"#4F4F4F",
         alignItems:"center",
         borderTopLeftRadius:60,
         borderTopRightRadius:60,
-        borderBottomLeftRadius:60,
-        borderBottomRightRadius:60,
-
     },
     input: {
         width:"90%",
